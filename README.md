@@ -1,2 +1,4 @@
 # dotfiles
-Dotfile
+Dotfiles
+
+## License MIT
