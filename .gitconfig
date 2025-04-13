@@ -1,3 +1,5 @@
 [user]
 	email = zikyrunets@gmail.com
 	name = aliaksma
+[gpg]
+	format = ssh
