@@ -1,5 +1,5 @@
 # dotfiles
-My personal dotfiles. Test2.
+My personal dotfiles.
 
 ## License 
 MIT
